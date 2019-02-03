@@ -1,0 +1,31 @@
+Test Cases for StoreSim
+
+Enter the length of time to run the simulator : 30
+
+Customers served : 15
+Average wait     : 1.4
+Total Wait	: 21
+Longest wait     : 3
+
+Enter the length of time to run the simulator : 60
+
+Customers served : 48
+Average wait     : 2.6
+Total Wait	: 1.2e+02
+Longest wait     : 6
+
+Enter the length of time to run the simulator : 120
+
+Customers served : 84
+Average wait     : 2.6
+Total Wait	: 2.2e+02
+Longest wait     : 5
+
+Enter the length of time to run the simulator : 480
+
+Customers served : 360
+Average wait     : 2.3
+Total Wait	: 8.3e+02
+Longest wait     : 7
+
+
