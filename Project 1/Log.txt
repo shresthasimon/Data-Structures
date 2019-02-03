@@ -1,0 +1,76 @@
+***MENU:***
+
+ 1 - Add an Item
+ 2 - Delete an Item
+ 3 - Print a number of items
+ 4 - Print all items
+ 5 - Exit Program
+Enter your choice: 
+
+***Option 1:***
+
+ 1 - Add an Item
+ 2 - Delete an Item
+ 3 - Print a number of items
+ 4 - Print all items
+ 5 - Exit Program
+Enter your choice: 1
+Enter a number you would like to add: 5
+Item Added
+
+***Option 2:***
+
+ 1 - Add an Item
+ 2 - Delete an Item
+ 3 - Print a number of items
+ 4 - Print all items
+ 5 - Exit Program
+Enter your choice: 2
+Last Item Deleted
+
+***Option 3:***
+
+ 1 - Add an Item
+ 2 - Delete an Item
+ 3 - Print a number of items
+ 4 - Print all items
+ 5 - Exit Program
+Enter your choice: 3
+The amount of items in the list is: 0
+
+***Option 4:***
+
+ 1 - Add an Item
+ 2 - Delete an Item
+ 3 - Print a number of items
+ 4 - Print all items
+ 5 - Exit Program
+Enter your choice: 4
+List: 2 5 
+ 
+or 
+
+ 1 - Add an Item
+ 2 - Delete an Item
+ 3 - Print a number of items
+ 4 - Print all items
+ 5 - Exit Program
+Enter your choice: 4
+List: List has no items.
+
+***Option 5:***
+
+ 1 - Add an Item
+ 2 - Delete an Item
+ 3 - Print a number of items
+ 4 - Print all items
+ 5 - Exit Program
+Enter your choice: 5
+// program ends afterwards
+
+
+
+
+
+
+
