@@ -1,0 +1,60 @@
+**************************************************
+TEST CASES FOR PROGRAMMING EXERCISE 1 AND 2
+**************************************************
+
+
+Programming Exercise 1
+postfix.cpp
+
+Test Case 1:
+infix: (3+4)*(5/2)
+postfix: 3 4 + 5 2 / *
+Result: 17.5
+
+Test Case 2: 
+infix: ((7*8)/2)+8
+postfix: 7 8 * 2 / 8 +
+Result: 36
+
+Test Case 3:
+infix: ((7*8)/2)+(8*9)-(3+4)
+postfix: 7 8 * 2 / 8 9 * + 3 4 + -
+result: 93
+
+Test Case 4:
+infix: (4+3)/3+4-6*(8+1)-2
+postfix: 4 3 + 3 / 4 + 6 8 1 + * - 2 -
+result:-49.6667
+
+Test Case 5:
+infix: 5*9-3+(4*7)/3
+postfix:5 9 * 3 - 4 7 * 3 / +
+result:51.3333
+
+
+
+Programming Exercise 2
+delimiters.cpp
+
+Test Case 1:
+expression:(((())))
+result: valid
+
+Test Case 2:
+expression:(4+5)-(4+5()(
+result: invalid
+
+Test Case 3:
+expression: ((((((((((((((((((((((((((((((((((((((((((((((((((9
+result: Can't evaluate if stack is full.
+
+Test Case 4:
+expression: ()()()()(()()()()()(-89898
+result: invalid
+
+Test Case 5:
+expression: (4*6)+((4+5)+(6+7)+(6+8))
+result: valid
+
+
+
