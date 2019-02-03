@@ -1,0 +1,5 @@
+*******************TESTING FOR EXERCISE 2***********************
+
+cs302@cs302-VirtualBox:~/CS 302/PA03_SimonShrestha/exercise 2$ ./queue
+aabiigl
+cs302@cs302-VirtualBox:~/CS 302/PA03_SimonShrestha/exercise 2$
